@@ -11,7 +11,7 @@ if __name__ == '__main__':
         print("product")
     
     elif user_input == 2:
-        pass
+        
 
 
     
